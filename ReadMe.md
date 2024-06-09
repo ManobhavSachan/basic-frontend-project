@@ -1,5 +1,7 @@
 # Simple WebProject
 
+[Website Link](https://manobhavsachan.github.io/basic-frontend-project/)
+
 This is a simple web project that includes basic HTML, CSS, and JavaScript files to create a modal popup.
 
 ## Project Structure
